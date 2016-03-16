@@ -1,0 +1,10 @@
+{
+    "name":"8888",
+    "web":{
+        "http":{
+            "port":"8888"
+        }
+    },
+    "force":true,
+    "port=8888":true
+}
